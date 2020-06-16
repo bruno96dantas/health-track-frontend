@@ -1,0 +1,30 @@
+html, body {
+    background-color: #F1FFFA;
+    height: 100%;
+}
+
+h1, h2, h3, h4 {
+    color: #464E47;
+}
+
+.mb-3, .my-3, .btn-block, li {
+    margin-bottom: 1rem!important;
+    margin-top: 1rem!important;
+}
+
+.row {
+    display: inline-table;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100%;
+}
+
+.list-group-item {
+    background-color: #5B9279!important;
+    color: #F1FFFA!important;
+}
+
+h6 {
+    font-size: x-small;
+    line-height: 1;
+}

@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 100%;
+}
+
+.form-signin {
+    background-color: #96E6B3;
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 0em;
+    border: 1px;
+    border-radius: 5%;
+    border-style: solid;
+    border-color: #568259;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+form {
+    display: block;
+}
+
+.h3 {
+    font-size: 0.75rem;
+}

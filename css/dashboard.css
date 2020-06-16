@@ -1,0 +1,31 @@
+
+.navbar-light {
+    background-color: #568259;
+}
+
+.btn-link {
+    color: #F1FFFA;
+}
+
+body{
+    box-sizing: content-box;
+}
+
+#perfilFoto, .container {
+    margin-bottom: 1rem!important;
+}
+
+nav a {
+    color: #F1FFFA!important;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 5%;
+    border: 1px;
+    border-radius: 5%;
+    border-style: solid;
+}
